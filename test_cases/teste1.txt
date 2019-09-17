@@ -1,0 +1,11 @@
+dump
+create_int I 
+set I -50
+print I
+set I 33
+print I
+create_float F
+dump
+set F 69.69
+dump
+print F

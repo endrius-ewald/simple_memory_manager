@@ -1,0 +1,34 @@
+CREATE_CHAR C
+CREATE_INT idade
+CREATE_FLOAT peso
+
+SET C #
+SET peso 12.34
+SET idade 18
+SET peso 25
+
+CREATE_VET_CHAR nome 20
+SET idade 90
+
+PRINT C
+PRINT idade
+PRINT peso
+
+CREATE_VET_INT idades 10
+CREATE_MAT_FLOAT alturas 5 10
+
+SET peso 45.67
+SET C #
+SET alturas 5 2 1.76
+SET peso 12.34
+SET idade 123
+
+SET nome Joao_Da_Zilva
+SET nome 8 S
+PRINT nome
+
+PRINT C
+PRINT idade
+PRINT peso
+PRINT idades 3
+PRINT alturas 5 2
